@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Kim Min Sung"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/KakaoTalk_Photo_2023-03-25-14-05-12.jpeg"
   bio              : "김민성의 기술 블로그"
   location         : "South Korea"
   email            : "kms199719@naver.com"

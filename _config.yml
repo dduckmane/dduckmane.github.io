@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kim Min Sung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "김민성의 기술 블로그"
+  location         : "South Korea"
+  email            : "kms199719@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -295,5 +295,8 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_label: 목차
+      toc_icon: "fa-sharp fa-solid fa-pen-nib"
 
 date_format : "%Y-%m-%d"

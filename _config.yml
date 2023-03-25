@@ -110,9 +110,9 @@ author:
   location         : "South Korea"
   email            : "kms199719@naver.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "kms199719@naver.com"
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "kms199719@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://torpid-whale-218.notion.site/6c91b245f0d24026893ea42398f68800"
@@ -224,7 +224,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul
 
 
 # Plugins (previously gems:)

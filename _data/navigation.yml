@@ -8,3 +8,12 @@ main:
 #
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+docs:
+  - title : "대목차"
+    children:
+      - title : "Category"
+        url : /categories/
+      - title : "Tag"
+        url : /tags/
+

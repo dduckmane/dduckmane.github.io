@@ -2,7 +2,7 @@
 layout: single
 title:  "csrf 403 Error 해결"
 categories: TroubleShooting
-tag: [개념]
+tag: [code]
 
 author_profile: false
 sidebar:

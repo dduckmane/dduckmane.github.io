@@ -29,7 +29,7 @@ public class Main {
     static int R;
     static int C;
     static String[] a;
-    static int[][] dir = new int[][] {{1 , 0}, {-1 , 0}, {0 , 1}, {0 , -1}};
+    static int[][] dir = new int[][] {% raw %} {{1 , 0}, {-1 , 0}, {0 , 1}, {0 , -1}} {% endraw %};
     static boolean[][] visit;
     static int max = Integer.MIN_VALUE;
 

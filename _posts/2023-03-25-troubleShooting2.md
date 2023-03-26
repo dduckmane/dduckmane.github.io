@@ -2,7 +2,7 @@
 layout: single
 title:  "포트원(구 아임포트) db와 가맹점 db의 동기화"
 categories: TroubleShooting
-tag: [코드]
+tag: [code]
 
 author_profile: false
 sidebar:

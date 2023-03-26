@@ -26,7 +26,7 @@ public class Main {
     static int M;
     static int[][] a;
     static int max = Integer.MIN_VALUE;
-    static int[][] dir = new int[][]{% raw %}1, 0}, {-1, 0}, {0, 1}, {0,-1 {% endraw %};
+    static int[][] dir = new int[][]{% raw %}{{1, 0}, {-1, 0}, {0, 1}, {0,-1}} {% endraw %};
     static boolean visited[][];
     static int block;
 

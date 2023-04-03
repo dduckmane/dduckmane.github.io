@@ -13,7 +13,8 @@ sidebar:
 
 ## 현재 MSA 구조
 
-![image](https://user-images.githubusercontent.com/108928206/228510711-acefee11-5e0f-455f-8189-d90cd40bb255.png)
+![Unknown](https://user-images.githubusercontent.com/108928206/229394917-cc55e733-fd8f-49ae-9fcc-50611ed579bc.png)
+
 
 - 각각의 서비스들은 모두 config server 를 참조
 
